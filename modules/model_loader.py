@@ -49,17 +49,36 @@ print("[INIT] Loading models...")
 # --------------------
 # VOSK (Speech-to-Text)
 # --------------------
-try:
-    from vosk import Model as VoskModel
-    if os.path.isdir(VOSK_PATH):
-        vosk_model = VoskModel(VOSK_PATH)
-        print(" ✅ Vosk model loaded")
-    else:
-        print(f" ⚠️ Vosk model not found at: {VOSK_PATH}")
-        vosk_model = None
-except Exception as e:
-    print(f" ⚠️ Failed to initialize Vosk model: {e}")
-    vosk_model = None
+# modules/model_loader.py
+import whisper
+import torch
+
+# --- Vosk Model (can be removed if no longer used) ---
+# try:
+#     from vosk import Model
+#     vosk_model = Model(model_name="vosk-model-en-us-0.22-lgraph")
+# except Exception:
+#     print(" ⚠️ Vosk model not found or failed to load. Transcription will be disabled.")
+#     vosk_model = None
+
+# --- Whisper Model ---
+def load_whisper_model():
+    """Loads the Whisper model and prints status."""
+    model_name = "base" # Options: tiny, base, small, medium, large
+    try:
+        # Check if CUDA (GPU) is available and use it
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        print(f"✅ Whisper model '{model_name}' loading on device: '{device}'")
+        model = whisper.load_model(model_name, device=device)
+        print("✅ Whisper model loaded successfully.")
+        return model
+    except Exception as e:
+        print(f" ❌ Failed to load Whisper model '{model_name}'. Transcription will be disabled.")
+        print(f" ❌ Error: {e}")
+        return None
+
+# Load the model once when this module is imported
+whisper_model = load_whisper_model()
 
 # --------------------
 # Wav2Vec2 (Audio Emotion)

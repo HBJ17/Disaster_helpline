@@ -310,3 +310,43 @@ Final Emotion : SAD
 Distress      : HIGH DISTRESS
 Reason        : emotion escalation (chunk 0): sad (0.95)
 ==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T06:05:52.446613Z
+==================================================
+Caller ID     : TMP5B63WAEB
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T12:18:04.131309Z
+==================================================
+Caller ID     : TMPWDBO74LJ
+Transcript    : 
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T12:18:27.036122Z
+==================================================
+Caller ID     : TMPEHL23OUA
+Transcript    : 
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.96)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T12:32:12.340537Z
+==================================================
+Caller ID     : TMPPCXDCHPN
+Transcript    : Hello, please, please help me. I'm stuck. The buildings coming down. I can hear the walls cracking. I don't know how much longer I can hold on. Please, please just send someone. I don't want to die here.
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
