@@ -1,0 +1,312 @@
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T09:33:08.513174
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T10:45:36.596904
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T10:45:49.794952
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T11:04:38.383712
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T11:05:08.602185
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T12:00:50.783982
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T12:04:07.777877
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T12:13:59.763269
+==================================================
+Caller ID     : 0000
+Transcript    : if you are hearing this i dunno if i'm going to make up just know i love you tell mom i tried my best don't cry for me just lou lou for me
+Final Emotion : SAD
+Distress      : MEDIUM DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T12:14:40.074968
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T13:12:54.134684Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : ANGRY
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T13:40:34.040734Z
+==================================================
+Caller ID     : 000
+Transcript    : 
+Final Emotion : NEUTRAL
+Distress      : LOW DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T13:57:07.937106Z
+==================================================
+Caller ID     : 000
+Transcript    : 
+Final Emotion : ANGRY
+Distress      : PEAK EMERGENCY DISTRESS
+Reason        : early stop: peak emergency detected
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T13:59:46.067427Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T14:05:25.852109Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (window 0): sad (0.95)
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T15:09:20.133186Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T15:11:26.365051Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do the homeless lower like and hold on please please just said someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T15:32:12.834453Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long and i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+📞 Emergency Call Log - 2025-09-23T15:37:46.526320Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long and i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+
+==================================================
+
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:21:15.046874Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:23:21.672812Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:25:01.842332Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:27:26.447713Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:32:59.528161Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T16:37:47.582661Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-23T23:23:08.413915Z
+==================================================
+Caller ID     : 000
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T00:04:38.613191Z
+==================================================
+Caller ID     : TMP2RO087I8
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : fast mode: skipped chunked audio & sound analysis
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T00:05:00.877654Z
+==================================================
+Caller ID     : TMPFQK2MK3K
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T00:48:32.552778Z
+==================================================
+Caller ID     : TMPC4ROUGFB
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T01:46:24.133481Z
+==================================================
+Caller ID     : TMPAO8B_XAF
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T01:46:46.930359Z
+==================================================
+Caller ID     : TMPLP1NVMAN
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T01:47:13.952649Z
+==================================================
+Caller ID     : TMPZQP9XGK_
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : fast mode: skipped chunked audio & sound analysis
+==================================================
+
+==================================================
+ Emergency Call Log - 2025-09-24T03:04:18.052575Z
+==================================================
+Caller ID     : TMP36B5M7JI
+Transcript    : hello please please help me i'm stuck the buildings come into i can hear the walls crack i do know homeless long i can hold on please please just send someone i don't want to die here
+Final Emotion : SAD
+Distress      : HIGH DISTRESS
+Reason        : emotion escalation (chunk 0): sad (0.95)
+==================================================

@@ -1,0 +1,9 @@
+streamlit
+flask
+flask-cors
+numpy
+soundfile
+librosa
+tensorflow
+transformers
+# Add other libraries your modules depend on (e.g., vosk, torch)
